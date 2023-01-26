@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "628238789707",
+    "project_id": "fluidform-9d084",
+    "storage_bucket": "fluidform-9d084.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628238789707:android:e4c0a5d1527965a3a1f1ce",
+        "android_client_info": {
+          "package_name": "com.fluidform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628238789707-jmcp6q8l79vuh05p6ng71mhj57vdj3ov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxYzMHBYPUaL0ZBoumT4xVbAXJ0AULMzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628238789707-jmcp6q8l79vuh05p6ng71mhj57vdj3ov.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "628238789707-0cjipsbg474eo0ue17jmpu3gloq3h95m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fluidformpilates.ffah"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

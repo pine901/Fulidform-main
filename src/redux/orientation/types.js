@@ -1,0 +1,3 @@
+export default {
+  SET_APP_ORIENTATION: 'SET_APP_ORIENTATION',
+};

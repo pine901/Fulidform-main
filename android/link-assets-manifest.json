@@ -1,0 +1,197 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/AlrightSans-Black-v3.ttf",
+      "sha1": "c4acc0316d1da74a7128f23ee5a154329b6fbe12"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-Black-v3.woff",
+      "sha1": "ebf3fb852bce4e66693da26b77a9684c8f86fa82"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-Black-v3.woff2",
+      "sha1": "80513b833fa502cfb656b6748a5da4cac60856bd"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-BlackItalic.ttf",
+      "sha1": "73febbd4d0e15d32bf6aa9947d2a997cfa97e599"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-BlackItalic.woff",
+      "sha1": "6b22893bfc68bf2a7a5075f07c0e5a9441717ff2"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-BlackItalic.woff2",
+      "sha1": "1d03bff75d2325d9db19e5bb45c469a92900363a"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-Bold.ttf",
+      "sha1": "3ce17bd6799aaa91b0f6e79255b53982e06e26bc"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-Bold.woff",
+      "sha1": "de7205a90dc1ea1d93be0c53623b46c1c49404e3"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-Bold.woff2",
+      "sha1": "12d563cd1b065393d1b504bc5c08b30d717b6098"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-BoldItalic.ttf",
+      "sha1": "bcb12c9dab391320c2cdb888e41330981d8f4f4c"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-BoldItalic.woff",
+      "sha1": "82c0d3cb134b62ed9e7eaf7b7bb92275ff1d78eb"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-BoldItalic.woff2",
+      "sha1": "15ab07db07a16b48faecc7b40f98d265ff0fdef8"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-ExtraThin.ttf",
+      "sha1": "82ef584af9a905cc31b6fd0f0ccb2d15cd23e756"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-ExtraThin.woff",
+      "sha1": "4fd87f06e032e407d036b099ec194a3bdf46f00b"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-ExtraThin.woff2",
+      "sha1": "3e1b4921f9f341155ce764d9860ced94538f0909"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-ExtraThinItalic.ttf",
+      "sha1": "21c0dc826531132e15ba3f9a0135f11162c65741"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-ExtraThinItalic.woff",
+      "sha1": "0ee5fdb104a3641b9f995c353e5608cc3acdbab3"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-ExtraThinItalic.woff2",
+      "sha1": "fecd724aff9260ac55352200921d7efa7564fe8b"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-Light.ttf",
+      "sha1": "0df0604980a6ebb730c12e820d28b06f25397c8b"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-Light.woff",
+      "sha1": "d7856ac9a9708f08d20d4f3a093e163eb2469773"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-Light.woff2",
+      "sha1": "48cb242700580e75a60bfdbf1b49a0aadab5adf3"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-LightItalic.ttf",
+      "sha1": "401108c1822a7998a11d7c0aa8f9bb19277dd328"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-LightItalic.woff",
+      "sha1": "57d29507c85ef5761b7b72960415c4539df24a62"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-LightItalic.woff2",
+      "sha1": "1157d17324805a0a526a18a903dab4ba9c8528f8"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-Medium.ttf",
+      "sha1": "2f59acf2bfe9038f36f611247ca9934f7195f85c"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-Medium.woff",
+      "sha1": "dbc4b7e4c46022074d879d0bc894391c7d045a8d"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-Medium.woff2",
+      "sha1": "cc265bb2719df0ebaebe427ef5f31a9e79b9e13b"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-MediumItalic.ttf",
+      "sha1": "3d270c09231530ecaef1220f602381032abe1f69"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-MediumItalic.woff",
+      "sha1": "18f56b6fe7f01d3a3b3b941cef3a4bb2d01bf8cf"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-MediumItalic.woff2",
+      "sha1": "f228ae8953d48d1d19f7d2b8fe8a86be38232dc8"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-Regular.ttf",
+      "sha1": "bd65c69666f4691456a931fb000ac8233284e0b3"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-Regular.woff",
+      "sha1": "b48e8d15367e649a203fdc63542e540ed9199ecb"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-Regular.woff2",
+      "sha1": "18fe887be206b4c4cffa2d972cf2ab6159291fb4"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-RegularItalic.ttf",
+      "sha1": "50f6da4354807b213dc275b96a1e03153434ec8b"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-RegularItalic.woff",
+      "sha1": "539ca783cf46e4771c3b1a82d4752320a82eaab4"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-RegularItalic.woff2",
+      "sha1": "a856d7c6027ff053b7d1366bb9e6dac44ca025df"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-Thin.ttf",
+      "sha1": "e57f4be758efe9e353960cedb79eb8519263e1f4"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-Thin.woff",
+      "sha1": "6f07ff8533400fca337944311e87bd53136ab102"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-Thin.woff2",
+      "sha1": "bb6b282b7f5d1311bde7c8d30230492dc25b8257"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-ThinItalic.ttf",
+      "sha1": "5ecb7e9ffa5c63c66b8c4e202465dcb0b59abdfe"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-ThinItalic.woff",
+      "sha1": "ed12c41eecc69728148a5d4d14deb2f7c3e20f02"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-ThinItalic.woff2",
+      "sha1": "46ba49605addb081b7700d5c2f6643270dca8132"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-Ultra.ttf",
+      "sha1": "d3e2ca906c395e87a24187c7b6c9c1068f97a2aa"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-Ultra.woff",
+      "sha1": "9b7ac079822827b24bc3ea703c142726c326d077"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-Ultra.woff2",
+      "sha1": "bee78f2da9b12805e31af0c1d961be5280170739"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-UltraItalic.ttf",
+      "sha1": "36540d3b42c90d9917a6a4f855020031592e5ca6"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-UltraItalic.woff",
+      "sha1": "a7a746ac115a8e7eb309a771564db200d40c6159"
+    },
+    {
+      "path": "assets/fonts/AlrightSans-UltraItalic.woff2",
+      "sha1": "0942ae176909ac1b586aa83cfd2e36846e1c324b"
+    }
+  ]
+}
